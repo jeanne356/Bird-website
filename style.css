@@ -18,9 +18,9 @@ top: 25px;
 
 .fas {
 position: absolute;
-width: 30px;
-height: 30px;
-left: 1333px;
+width: 152px;
+height: 31px;
+left: 1198px;
 top: 25px;
 }
 
@@ -72,26 +72,11 @@ background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%)
 }
 
 #logo {
-/* Ellipse 1 */
 position: absolute;
 width: 104px;
-height: 104px;
+height: 80px;
 left: 55px;
 top: 33px;
-background: #000000;
-border-radius: 50%;
-position: absolute;
-width: 89px;
-height: 40px;
-left: 64px;
-top: 64px;
-font-family: 'Noto Sans JP', sans-serif;
-font-style: normal;
-font-weight: normal;
-font-size: 10px;
-line-height: 130%;
-text-align: center;
-color: #FFFFFF;
 }
 
 .fab {
@@ -128,6 +113,21 @@ line-height: 130%;
 text-align: center;
 color: #000000;
 word-spacing: 30px;
+}
+
+.search {
+position: absolute;
+width: 476px;
+height: 122px;
+left: 500px;
+top: 1200px;
+}
+
+.home3 {
+  position: absolute;
+  top: 1365px;
+  width: 1413px;
+  height: 1632px;
 }
 
 #photolarge {
@@ -380,4 +380,12 @@ top: 1150px;
 background: #F7F7F7;
 font-family:'Noto Serif', serif;
 text-align: center;
+}
+
+.social {
+  position: absolute;
+width: 850px;
+height: 620px;
+left: 250px;
+top: 3150px;
 }
