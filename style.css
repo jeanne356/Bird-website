@@ -8,6 +8,14 @@ body{
     /* font-family: anonymous; */
 }
 
+.fasd {
+position: absolute;
+width: 30px;
+height: 30px;
+left: 1333px;
+top: 25px;
+}
+
 .fas {
 position: absolute;
 width: 30px;
