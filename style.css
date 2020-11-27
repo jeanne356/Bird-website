@@ -50,7 +50,7 @@ width: 269px;
 height: 47px;
 left: 572px;
 font-family:'Noto Serif', serif;
-font-style: normal;
+font-style: italic;
 font-weight: normal;
 font-size: 36px;
 line-height: 130%;
@@ -58,12 +58,14 @@ line-height: 130%;
 text-align: center;
 color: #000000;
 
+
 }
 
 
 h2 {
 position: absolute;
 font-family:'Noto Serif', serif;
+font-style: italic;
 width: 152px;
 height: 31px;
 left: 1198px;
@@ -130,6 +132,7 @@ top: 1200px;
   height: 1632px;
 }
 
+
 #photolarge {
 position: absolute;
 width: 1440px;
@@ -142,11 +145,11 @@ top: 190px;
 h3 {
 position: absolute;
 font-family:'Noto Serif', serif;
+font-style: italic;
 width: 832px;
 height: 201px;
 left: 290px;
 top: 771px;
-font-style: normal;
 font-weight: normal;
 font-size: 36px;
 line-height: 130%;
@@ -251,7 +254,7 @@ top: 1300px;
 padding: 20px;
 position: absolute;
 width: 820px;
-height: 392px;
+height: 352px;
 left: 591px;
 top: 0px;
 background: #F7F7F7;	
@@ -261,6 +264,7 @@ h4 {
 text-align: center;
 /*position: absolute;*/
 font-family:'Noto Serif', serif;
+font-style: italic;
 font-size: 30px;
 top: 0px;
 padding-left: 20px;
@@ -283,14 +287,17 @@ height: 324px;
 top: 470px;
 }
 
+
 .div-grise2 {
 position: absolute;
 width: 820px;
 height: 365px;
 left: 591px;
 top: 0px;
-background: #F7F7F7;	
+background: #F7F7F7;  
 }
+
+
 
 .banniere3 {
 position: absolute;
@@ -306,6 +313,7 @@ left: 591px;
 top: 0px;
 background: #F7F7F7;	
 }
+
 
 .text-blu {
 	color: #35A1C4;
@@ -352,12 +360,14 @@ font-family:'Noto Serif', serif;
 h4 {
   top: 270px;
   font-family:'Noto Serif', serif;
+  font-style: italic;
 }
 
 h5 {
   top: 800px;
   font-family:'Noto Serif', serif;
   font-size: 35px;
+  font-style: italic;
 }
 
 .fin {
@@ -376,7 +386,7 @@ h5 {
 width: 1421px;
 height: 700px;
 left: 0px;
-top: 1150px;
+top: 4000px;
 background: #F7F7F7;
 font-family:'Noto Serif', serif;
 text-align: center;
